@@ -32,9 +32,10 @@ Engineering focus: **secure access control, audit-ready data, reliable payments 
 
 <table>
   <tr>
-    <td align="center" width="200"><h2>2+</h2><sub>Years in industry</sub></td>
-    <td align="center" width="200"><h2>40+</h2><sub>Client projects delivered</sub></td>
-    <td align="center" width="200"><h2>2,400+</h2><sub>Users on live platforms</sub></td>
+    <td align="center" width="170"><h2>2+</h2><sub>Years in industry</sub></td>
+    <td align="center" width="170"><h2>40+</h2><sub>Client projects delivered</sub></td>
+    <td align="center" width="170"><h2>8</h2><sub>Apps live on the Stores</sub></td>
+    <td align="center" width="170"><h2>~3 weeks</h2><sub>Average completion time per project </sub></td>
   </tr>
 </table>
 
@@ -87,8 +88,8 @@ Engineering focus: **secure access control, audit-ready data, reliable payments 
   <tr>
     <td width="50%" valign="top">
       <h3>🎵 Tom's Performance Studio</h3>
-      School-management backend serving <b>1,400 enrolled students and 40+ teachers</b> at an Australian music school.<br/><br/>
-      <sub><b>Challenge:</b> flexible payment handling for private and group class enrollments and schedule tracking.</sub><br/><br/>
+      Full-stack of a schedule-management system serving <b>1,400+ enrolled students and 40+ teachers</b> at an Australian music school.<br/><br/>
+      <sub><b>Challenge:</b> flexible payment handling for private and group class enrollments with schedule tracking.</sub><br/><br/>
       <a href="https://github.com/ridoan777/Toms-Studio">Git</a> · <a href="https://tomsperformancestudio.cloud/">Frontend</a>
     </td>
     <td width="50%" valign="top">
@@ -164,12 +165,11 @@ JUL 2024 ─ JUL 2025  Web Developer · Neutra AI, Dhaka
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ridoan777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoan777&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/ridoan777?style=for-the-badge&logo=github&label=Followers&color=4f46e5&labelColor=0f172a)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fridoan777&query=%24.following&label=Following&style=for-the-badge&logo=github&color=8b5cf6&labelColor=0f172a)
+![Profile views](https://komarev.com/ghpvc/?username=ridoan777&style=for-the-badge&color=06b6d4&labelColor=0f172a)
 
-<br/>
-
-<a href="https://gitlab.com/ridoan"><b>More of my code on GitLab →</b></a>
+<a href="https://gitlab.com/ridoan"><b>More of my coding activity on GitLab →</b></a>
 
 </div>
 
