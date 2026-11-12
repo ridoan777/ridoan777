@@ -32,10 +32,10 @@ Engineering focus: **secure access control, audit-ready data, reliable payments 
 
 <table>
   <tr>
-    <td align="center" width="170"><h2>2+</h2><sub>Years in industry</sub></td>
-    <td align="center" width="170"><h2>40+</h2><sub>Client projects delivered</sub></td>
-    <td align="center" width="170"><h2>8</h2><sub>Apps live on the Stores</sub></td>
-    <td align="center" width="170"><h2>~3 weeks</h2><sub>Average completion time per project </sub></td>
+    <td align="center" valign="top" width="150"><h2>2+</h2><sub>Years in industry</sub></td>
+    <td align="center" valign="top" width="150"><h2>40+</h2><sub>Client projects delivered</sub></td>
+    <td align="center" valign="top" width="150"><h2>8</h2><sub>Apps live on App Store & Play Store</sub></td>
+    <td align="center" valign="top" width="150"><h2>52</h2><sub>Projects worked on (incl. ongoing)</sub></td>
   </tr>
 </table>
 
@@ -99,7 +99,7 @@ Engineering focus: **secure access control, audit-ready data, reliable payments 
   <tr>
     <td width="50%" valign="top">
       <h3>🎵 Tom's Performance Studio</h3>
-      Full-stack of a schedule-management system serving <b>1,400+ enrolled students and 40+ teachers</b> at an Australian music school.<br/><br/>
+      Full-stack of a school-management system serving <b>1,400+ enrolled students and 40+ teachers</b> at an Australian music school.<br/><br/>
       <sub><b>Challenge:</b> flexible payment handling for private and group class enrollments with schedule tracking.</sub><br/><br/>
       <a href="https://github.com/ridoan777/Toms-Studio">Git</a> · <a href="https://tomsperformancestudio.cloud/">Frontend</a>
     </td>
@@ -172,6 +172,7 @@ JUL 2024 ─ JUL 2025  Web Developer · Neutra AI, Dhaka
 
 <!-- ===================== GITHUB STATS ===================== -->
 
+<div style="display: none;">
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -183,7 +184,7 @@ JUL 2024 ─ JUL 2025  Web Developer · Neutra AI, Dhaka
 <a href="https://gitlab.com/ridoan"><b>More of my coding activity on GitLab →</b></a>
 
 </div>
-
+</div>
 <br/>
 
 <!-- ===================== FOOTER ===================== -->
