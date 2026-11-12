@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:4f46e5,100:06b6d4&text=Ridoan%20Kabir&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Backend%20Systems%20%C2%B7%20Scalable%20Products&descAlignY=58&descSize=18&animation=fadeIn" alt="Ridoan Kabir banner" width="100%"/>
 
 <a href="https://github.com/ridoan777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Software+Developer+%7C+2%2B+Years+in+Industry;Secure+%E2%80%A2+Scalable+%E2%80%A2+Traceable+Backend+Systems;40%2B+Client+Projects+Delivered+Worldwide" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Software+Developer+%7C+2%2B+Years+in+Industry;Secure+%E2%80%A2+Scalable+%E2%80%A2+Traceable+Systems;40%2B+Client+Projects+Delivered+Worldwide" alt="Typing animation" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 Software Developer with **2+ years of industry experience delivering 40+ client projects** for international and local businesses, with a vision to build scalable software products that solve real problems.
 
-Engineering focus: **secure access control, audit-ready data, reliable payments and clean, extensible architecture.**
+Engineering focus: **secure access control, audit-ready data, separation, flexible modularity, reliable payments and clean, extensible architecture.**
 
 <br/>
 
@@ -168,23 +168,6 @@ JUL 2024 ─ JUL 2025  Web Developer · Neutra AI, Dhaka
 - **PHP with Laravel Framework**, Virtual Pondit (SEIP, BASIS) · 2023
 - **Laravel Developer Internship** (remote, part-time alongside a full-time role), Business Automation Ltd. · 2024
 
-<br/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-<div style="display: none;">
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/ridoan777?style=for-the-badge&logo=github&label=Followers&color=4f46e5&labelColor=0f172a)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fridoan777&query=%24.following&label=Following&style=for-the-badge&logo=github&color=8b5cf6&labelColor=0f172a)
-![Profile views](https://komarev.com/ghpvc/?username=ridoan777&style=for-the-badge&color=06b6d4&labelColor=0f172a)
-
-<a href="https://gitlab.com/ridoan"><b>More of my coding activity on GitLab →</b></a>
-
-</div>
-</div>
 <br/>
 
 <!-- ===================== FOOTER ===================== -->
