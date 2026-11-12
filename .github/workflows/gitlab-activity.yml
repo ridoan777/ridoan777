@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "scripts/gitlab_heatmap.py"
 permissions:
   contents: write
 jobs:
@@ -10,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python scripts/gitlab_heatmap.py
+      - run: python3 scripts/gitlab_heatmap.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
