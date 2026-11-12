@@ -1,12 +1,23 @@
-import json, urllib.request, datetime as dt
+import json, sys, time, urllib.request, datetime as dt
 
 USER = "ridoan"
-req = urllib.request.Request(
-    f"https://gitlab.com/users/{USER}/calendar.json",
-    headers={"User-Agent": "Mozilla/5.0"}
-)
-with urllib.request.urlopen(req, timeout=15) as res:
-    data = json.load(res)
+
+def fetch():
+    req = urllib.request.Request(
+        f"https://gitlab.com/users/{USER}/calendar.json",
+        headers={"User-Agent": "Mozilla/5.0"},
+    )
+    for attempt in range(3):
+        try:
+            return json.load(urllib.request.urlopen(req, timeout=20))
+        except Exception as e:
+            print(f"Attempt {attempt + 1} failed: {e}")
+            time.sleep(5 * (attempt + 1))
+    return None
+
+data = fetch()
+if not isinstance(data, dict) or len(data) == 0:
+    sys.exit("No valid data from GitLab - keeping the previous SVG.")
 
 end = dt.date.today()
 start = end - dt.timedelta(days=364)
