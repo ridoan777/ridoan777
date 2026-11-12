@@ -43,6 +43,17 @@ Engineering focus: **secure access control, audit-ready data, reliable payments 
 
 <br/>
 
+<!-- ===================== GITLAB GRAPH ===================== -->
+## 📊 Coding Activity
+
+<div align="center">
+
+<img src="./gitlab-activity.svg" alt="GitLab contribution graph" width="100%"/>
+<br/>
+<a href="https://gitlab.com/ridoan"><b>View my GitLab profile →</b></a>
+
+</div>
+<br/>
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🧰 Tech Stack
