@@ -87,7 +87,7 @@ Engineering focus: **secure access control, audit-ready data, separation, flexib
       <h3>💪 BP Fitness</h3>
       Backend of a US-based fitness business serving <b>1,000+ on-site customers</b>.<br/><br/>
       <sub><b>Challenge:</b> dual payment systems, LMS, e-commerce and AI-powered workflows in one platform.</sub><br/><br/>
-      <a href="https://gitlab.com/corporate-projects1/bp-fitnesss">Git</a> · <a href="https://apps.apple.com/us/app/bpfitnes/id6757735124">App Store</a>
+      <a href="https://github.com/ridoan777/BP-Fitness">Git</a> · <a href="https://apps.apple.com/us/app/bpfitnes/id6757735124">App Store</a>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Sparky Bot</h3>
