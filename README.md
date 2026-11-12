@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:4f46e5,100:06b6d4&text=Ridoan%20Kabir&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Backend%20Systems%20%C2%B7%20Scalable%20Products&descAlignY=58&descSize=18&animation=fadeIn" alt="Ridoan Kabir banner" width="100%"/>
 
 <a href="https://github.com/ridoan777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Software+Developer+%7C+2%2B+Years+in+Industry;Secure+%E2%80%A2+Scalable+%E2%80%A2+Traceable+Systems;40%2B+Client+Projects+Delivered+Worldwide" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Software+Developer+%7C+3%2B+Years+Experience;Secure+%E2%80%A2+Scalable+%E2%80%A2+Traceable+Systems;40%2B+Client+Projects+Delivered+Worldwide" alt="Typing animation" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About
 
-Software Developer with **2+ years of industry experience delivering 40+ client projects** for international and local businesses, with a vision to build scalable software products that solve real problems.
+Software Developer with **3+ years of experience, including 2+ years in industry, delivering 40+ client projects** for international and local businesses, with a vision to build scalable software products that solve real problems.
 
 Engineering focus: **secure access control, audit-ready data, separation, flexible modularity, reliable payments and clean, extensible architecture.**
 
